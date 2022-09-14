@@ -1,0 +1,23 @@
+{
+  "name": "react-native-simran-test-library-example",
+  "displayName": "SimranTestLibrary Example",
+  "expo": {
+    "name": "react-native-simran-test-library-example",
+    "slug": "react-native-simran-test-library-example",
+    "description": "Example app for react-native-simran-test-library",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
